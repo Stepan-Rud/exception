@@ -1,0 +1,5 @@
+
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ˆåÊû8’Ãì¾Ç1
+L	java:S106"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ8—Ãì¾Ç1
+L	java:S106"+Replace this use of System.out by a logger.(×”îØùÿÿÿÿ8˜Ãì¾Ç1

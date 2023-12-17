@@ -1,0 +1,13 @@
+
+Q
+java:S10667"/Merge this if statement with the enclosing one.(„×Äôÿÿÿÿÿ8“×©–Å1
+Q
+java:S1066N"/Merge this if statement with the enclosing one.(„×Äôÿÿÿÿÿ8”×©–Å1
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(çâ‹²ıÿÿÿÿ8•×©–Å1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 98 to the 15 allowed.(çâ‹²ıÿÿÿÿ8¥×©–Å1
+X
+java:S6353]"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ñîè$8½×©–Å1
+é
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 104 to 64, Complexity from 47 to 14, Nesting Level from 6 to 2, Number of Variables from 12 to 6.(çâ‹²ıÿÿÿÿ8Â×©–Å1
